@@ -1,7 +1,4 @@
-# user-management-system
-Here's a simple `README.md` template for your User Management System based on the content from the image you uploaded:
 
----
 
 # User Management System
 
